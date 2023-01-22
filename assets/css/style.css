@@ -1,0 +1,10 @@
+.filter-menu ul li button {
+  min-width: 105px;
+}
+.filter-menu ul li {
+  display: inline-block;
+}
+.filter-menu ul {
+  padding: 0;
+  list-style: none;
+}
